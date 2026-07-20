@@ -14,6 +14,12 @@ The project is a reusable specification for an AI agent or automated pipeline. I
 
 GitHub can preview both PDFs in the browser. Download them for the most reliable font and hyperlink rendering.
 
+### Visual preview
+
+| Editorial dashboard | English-first hierarchy |
+| --- | --- |
+| [![Editorial dashboard showing the ten-story mix](social/assets/x-02-editorial-dashboard.png)](examples/Daily_Bilingual_Brief_Sample.pdf) | [![Comparison of the previous and English-first bilingual hierarchy](social/assets/x-03-english-first-comparison.png)](examples/English_First_Visual_Demo.pdf) |
+
 ## Key features
 
 - Exactly 10 high-signal stories across three editorial domains.
